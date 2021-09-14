@@ -1,3 +1,11 @@
+import { Fragment } from "react"
+import { GlobalStyle } from "../../components"
+
 export function App() {
-  return <div>Hello!</div>
+  return (
+    <Fragment>
+      <GlobalStyle/>
+      <div>Hello!</div>
+    </Fragment>
+  )
 }
