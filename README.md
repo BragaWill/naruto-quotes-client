@@ -1,7 +1,7 @@
 # Naruto Quotes Client
 Naruto quotes generator client.
 
-![screenshot](screenshot.png?raw=true "screenshot")
+![screenshot](screenshot.PNG?raw=true "screenshot")
 
 Server available on: [Naruto Quotes Server](https://github.com/BragaWill/naruto-quotes-server)
 
